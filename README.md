@@ -11,7 +11,7 @@ In particular, the name of something declared in an outer circle must not be men
 That includes, functions, classes. variables, or any other named software entity.
 And one more thing, all dependencies should be interface.
 
-The below diagram is an attempt at integrating all these architectures into a single actionable idea.
+The below diagram is The Clean Architecture idea.
 ![The Clean Architecture](https://user-images.githubusercontent.com/36881424/166196851-1985b9f4-0bd6-40d9-bfc1-e844455379ed.png)
 
 ### Entities
